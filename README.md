@@ -10,4 +10,5 @@ important, but which may or may not have market value.
 ### Format
 
 I'll log ongoing goals and intentions as issues, and track details of
-longer term items or established habits in the wiki.
+longer term items or established habits [in the
+wiki](https://github.com/patcon/urban-lifestyle-camping/wiki).
